@@ -2,7 +2,7 @@
 SEPINO-Yun is a part of SEPINO project that aims to interface the Arduino family with the SEPA server, creating an environment that uses all the benefit from each of the two technologies. Thanks to this project it will be possible to use the SEPA server in IoT projects based on Arduino microcontrollers.
 
 In this repository is presented how to interface the Arduino Yùn Rev. 2 with SEPA server:
-1. There's the Arduino sketch that write and run a script on the Atheros 9331R using a Python module named SEPA
+1. There's the Arduino sketch that writes and runs a script on the Atheros 9331R using a Python module named SEPA
 2. Thanks to Bridge Arduino receive data produced from the Python process and print them on the serial monitor.
 
 
